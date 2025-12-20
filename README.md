@@ -20,3 +20,5 @@ OK影视：[电视版](https://iptvindex.lanzoup.com/iaFdM3e4gifg) [手机版](h
 
 点播源
 `https://iptvindex.com/db.json`
+
+[更多资讯请点击这里](https://iptvindex.com)
