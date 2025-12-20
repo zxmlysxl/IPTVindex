@@ -1,7 +1,7 @@
 ### 1.看直播
    - TV和手机端APK推荐：酷9_v1.7.6.6_2025年11月27日最新版
 
-     - [电视版](https://iptvindex.lanzoum.com/i2UPm3d3p6sj) [手机版](https://iptvindex.lanzoum.com/i9gcM3d3p7sf) [lite低版本](https://iptvindex.lanzoum.com/iW27J3d3p88b)
+     - 酷9：[电视版](https://iptvindex.lanzoum.com/i2UPm3d3p6sj) [手机版](https://iptvindex.lanzoum.com/i9gcM3d3p7sf) [lite低版本](https://iptvindex.lanzoum.com/iW27J3d3p88b)
 
    - 直播源：`https://iptvindex.com/tv.txt`
 
